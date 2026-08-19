@@ -1,0 +1,22 @@
+# Database and runtime logs
+data/
+*.db
+*.sqlite
+*.log
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment variables and virtual environments
+.env
+venv/
+env/
+ENV/
+
+# IDE and Editor settings
+.idea/
+.vscode/
+*.swp
